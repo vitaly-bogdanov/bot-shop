@@ -1,0 +1,1 @@
+export { productActions } from './product.action.js';

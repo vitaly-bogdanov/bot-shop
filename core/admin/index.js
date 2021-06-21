@@ -1,0 +1,1 @@
+export { adminCommand } from './admin.command.js';

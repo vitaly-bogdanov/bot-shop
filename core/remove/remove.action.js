@@ -1,0 +1,1 @@
+import { cache } from '../../main/cache/index.js';
